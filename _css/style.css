@@ -1,0 +1,69 @@
+body {
+	background-image:url(../_img/bg.png);
+	background-repeat:repeat;
+	margin:0 auto;
+	font-size:11px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+
+#page-wrap {
+	width:611px;
+	height:auto;
+	margin:0 auto;
+}
+
+#right {
+	float:left;
+	height:auto;
+	width:279px;
+	margin-left:53px;
+}
+
+#left {
+	float:left;
+	height:auto;
+	width:279px;
+}
+
+#banner {
+	background-image:url(../_img/banner.png);
+	height:155px;
+}
+
+#blue-top {
+	background-image:url(../_img/blue-top.png);
+	width:279px;
+	height:43px;
+}
+
+#blue-middle {
+	background-image:url(../_img/blue-middle.png);
+	width:276px;
+	padding-left:3px;
+	padding-top:3px;
+}
+
+#blue-bottom {
+	background-image:url(../_img/blue-bottom.png);
+	width:279px;
+	height:13px;
+}
+
+#green-top {
+	background-image:url(../_img/green-top.png);
+	width:279px;
+	height:43px;
+}
+
+#green-middle {
+	background-image:url(../_img/green-middle.png);
+	width:276px;
+	padding-left:3px;
+	padding-top:3px;
+}
+
+#green-bottom {
+	background-image:url(../_img/green-bottom.png);
+	width:279px;
+	height:13px;
+}
